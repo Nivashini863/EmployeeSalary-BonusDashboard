@@ -44,6 +44,6 @@ This Power BI dashboard provides insights into employee salary, bonus, and depar
 
 ## Author
 
-**Sugan**
+**Nivashini**
 
 Power BI Dashboard Project
