@@ -38,10 +38,6 @@ This Power BI dashboard provides insights into employee salary, bonus, and depar
 - Employee_Data.xlsx
 - Dashboard_Screenshot.png
 
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
-
 ## Author
 
 **Nivashini**
